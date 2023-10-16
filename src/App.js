@@ -1,4 +1,4 @@
-
+import './styles.css'
 import { useState } from 'react';
 import './App.css';
 import Field from './components/Field';
