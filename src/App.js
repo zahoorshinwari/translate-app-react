@@ -1,12 +1,14 @@
 
 import './App.css';
 import Field from './components/Field';
+import Languages from './components/Languages';
 
 function App() {
   return (
     <div >
-    <h1>Hello world</h1>
+   
     <Field />
+    <Languages />
     </div>
   );
 }
